@@ -1,18 +1,24 @@
-Hi there 👋
-# Hello, I'm [Your Name]!
+# Hi there! 👋 I'm Rakibul Hasan Sajib.
 
-## About Me
-- 👋 Hi, I'm [Your Name].
-- 🌐 Visit my [portfolio website](https://your-website.com/).
+## 👨‍💻 Mobile App Developer | Flutter Enthusiast
 
-## Skills
-- 💻 Programming Languages: [List of languages].
-- 🚀 Technologies: [List of technologies].
+Welcome to my GitHub space! I'm passionate about crafting seamless and delightful user experiences through mobile development, with a focus on Flutter.
 
-## GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&hide=contribs,prs)
+### 💼 What I Do
+- 🚀 Currently diving deep into the world of mobile app development using **Flutter**.
+- 🌐 Creating cross-platform native apps that combine functionality and aesthetics.
 
-## Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-YourLinkedIn-blue)](https://www.linkedin.com/in/yourlinkedin/)
-[![Twitter](https://img.shields.io/badge/Twitter-YourTwitter-blue)](https://twitter.com/yourtwitter)
+### 🚀 Skills
+- **Languages**: C, Dart, Python
+- **Frameworks**: Flutter
+- **Databases**: Firebase
+- **Web Services**: Strong knowledge in RESTful APIs
+- **Business Analysis**: Familiar with business analysis concepts
 
+### 🛠️ GitHub Stats
+![Rakibul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&hide=contribs,prs)
+
+### 🌐 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-RakibulHasanSajib-blue)](https://www.linkedin.com/in/rakibulhasansajib/)
+
+Feel free to explore my repositories and connect with me. Let's build something amazing together! 🚀
