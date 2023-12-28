@@ -16,7 +16,7 @@ Welcome to my GitHub space! I'm passionate about crafting seamless and delightfu
 - **Business Analysis**: Familiar with business analysis concepts
 
 ### 🛠️ GitHub Stats
-![Rakibul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&hide=contribs,prs)
+![rakibsojib1 GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&hide=contribs,prs)
 
 ### 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-RakibulHasanSajib-blue)](https://www.linkedin.com/in/rakibulhasansajib/)
