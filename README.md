@@ -19,6 +19,7 @@ Welcome to my GitHub space! I'm passionate about crafting seamless and delightfu
 ![Rakibul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rakibsojib1&show_icons=true&hide=contribs,prs)
 
 ### 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-RakibulHasanSajib-blue)](https://www.linkedin.com/in/rakibulhasansajib/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-RakibulHasanSajib-blue)](https://www.linkedin.com/in/rakibul-hasan-sajib-5b39aa368?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+
 
 Feel free to explore my repositories and connect with me. Let's build something amazing together! 🚀
